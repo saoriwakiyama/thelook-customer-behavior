@@ -22,12 +22,12 @@ This project answers three core business questions about customer behavior using
 ## Dashboard
 
 ### 1. Overview
-![Overview page](images/overview.png)
+![Overview page](images/overview.jpeg)
 
 High-level KPIs (Revenue, Total Orders, Average Order Value, Buyers) and the overall growth trend, broken out by order status.
 
 ### 2. Customer Segmentation
-![Customer Segmentation page](images/segmentation.png)
+![Customer Segmentation page](images/segmentation.jpeg)
 
 Segments customers by purchase frequency (one-time / repeat / frequent) and compares behavior across age, gender, and country. Interactive slicers let you filter by year, gender, age group, and country.
 
@@ -38,7 +38,7 @@ Distribution of customer lifetime (days between a customer's first and last orde
 
 ## Key insights
 
-- **Revenue increased substantially from 2019 to 2025, while average order value remained relatively stable at around $86. This suggests that growth was primarily driven by an increase in order volume rather than higher spending per order.
+- **Revenue increased substantially from 2019 to 2025, while average order value remained relatively stable at around $86.** This suggests that growth was primarily driven by an increase in order volume rather than higher spending per order.
 - **A small group of frequent buyers drives a disproportionate share of revenue.** Customers with 3+ orders make up only ~7% of buyers but generate ~18% of revenue — driven by purchase frequency, not higher spend per order (AOV is nearly identical across frequency groups, ~$85–87).
 - **Demographics don't meaningfully predict purchase behavior.** Repeat purchase rate is consistent (~27–29%) across age groups, gender, and countries with a meaningful sample size (1,000+ buyers). Countries with very few buyers showed extreme repeat rates that turned out to be statistical noise from small sample sizes, not real behavioral differences — a reminder to always check sample size before trusting a rate.
 - **Customer lifetime length doesn't predict spending per order.** Customers active over a longer window (180+ days between first and last order) generate more total revenue simply because they have more opportunities to purchase — but their average order value is no higher than a customer who made all their purchases in a short window.
